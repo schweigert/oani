@@ -1,0 +1,2339 @@
+# depslib dependency file v1.0
+1486574813 source:f:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL\glut.h>
+	<time.h>
+	"application.h"
+
+976670572 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1474491457 f:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\application.h
+	<string>
+
+1486574845 source:f:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\application.cpp
+	"Application.h"
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1486738661 source:g:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<time.h>
+	<string>
+
+1489348404 source:g:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\application.cpp
+	"Application.h"
+	<stdio.h>
+	<GL/glut.h>
+
+1474487857 g:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\application.h
+	<string>
+
+1489348438 source:g:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+
+1489348463 source:e:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+
+1474487857 e:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\application.h
+	<string>
+
+1489348438 source:e:\udesc\ensino\oac\oac com opengl\aula 1 - time-based rendering\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+
+1489532282 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489543026 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+
+1489531844 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1489541932 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\camera.h
+	"Entity.h"
+
+1489529350 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\entity.h
+	"Vector3.h"
+
+1489529022 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\vector3.h
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1379211191 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\entity.cpp
+	"Entity.h"
+
+1379211195 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1489541858 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1489544396 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1489532282 source:f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489529350 f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\entity.h
+	"Vector3.h"
+
+1489529022 f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\vector3.h
+
+1489541932 f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\camera.h
+	"Entity.h"
+
+1489531844 source:f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1379211191 source:f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\entity.cpp
+	"Entity.h"
+
+1489769894 source:f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1489541858 f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1379211195 source:f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1489780211 source:f:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017b\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+
+1489532282 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489529350 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\entity.h
+	"Vector3.h"
+
+1489529022 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\vector3.h
+
+1489541932 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\camera.h
+	"Entity.h"
+
+1489531844 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1379211191 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\entity.cpp
+	"Entity.h"
+
+1490134058 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1489541858 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1379211195 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1490135316 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\fence.cpp
+	"Fence.h"
+
+1490131796 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\fence.h
+	"Object.h"
+
+1490133863 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1490134721 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+	"Fence.h"
+	"Tree.h"
+
+1490134057 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\object.cpp
+	"Object.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\tree.h
+	"Object.h"
+
+1490134644 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\tree.cpp
+	"Tree.h"
+
+1490135654 source:g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\house.cpp
+	"House.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 2 - opengl 1 - camera virtual\oac2017c\house.h
+	"Object.h"
+
+1489532282 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1490378606 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\entity.h
+	"Vector3.h"
+	"Interpolator.h"
+
+1489529022 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\vector3.h
+
+1490140082 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\interpolator.h
+	"Entity.h"
+
+1489541932 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\camera.h
+	"Entity.h"
+
+1489531844 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1490135316 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\fence.cpp
+	"Fence.h"
+
+1490131796 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\fence.h
+	"Object.h"
+
+1490133863 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1489541858 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1490135654 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\house.cpp
+	"House.h"
+
+1490135518 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\house.h
+	"Object.h"
+
+1490136081 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+	"Fence.h"
+	"Tree.h"
+	"House.h"
+
+1490135518 f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\tree.h
+	"Object.h"
+
+1490134057 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\object.cpp
+	"Object.h"
+
+1490134058 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490134644 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\tree.cpp
+	"Tree.h"
+
+1379211195 source:f:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1489532282 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1490495307 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\entity.h
+	"Vector3.h"
+
+1489529022 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\vector3.h
+
+1490557953 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\interpolator.h
+	"Entity.h"
+	"PoseAttr.h"
+	<vector>
+
+1490554039 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\poseattr.h
+	"Vector3.h"
+
+1489541932 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\camera.h
+	"Entity.h"
+
+1489531844 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1490135316 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\fence.cpp
+	"Fence.h"
+
+1490131796 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\fence.h
+	"Object.h"
+
+1490133863 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1489541858 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1490135654 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\house.cpp
+	"House.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\house.h
+	"Object.h"
+
+1490561688 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+	"Fence.h"
+	"Tree.h"
+	"House.h"
+	"Robot.h"
+	"PoseAttr.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\tree.h
+	"Object.h"
+
+1490537009 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\object.cpp
+	"Object.h"
+
+1490134058 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490134644 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\tree.cpp
+	"Tree.h"
+
+1379211195 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1490559795 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\animator.cpp
+	"Animator.h"
+	<stdlib.h>
+
+1490551995 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\animator.h
+	"Entity.h"
+	"Interpolator.h"
+	<vector>
+
+1490538738 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\attrvector3.cpp
+	"AttrVector3.h"
+	"Entity.h"
+
+1490538690 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\attrvector3.h
+	"PoseAttr.h"
+	"Vector3.h"
+
+1490529590 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\entity.cpp
+	"Entity.h"
+	<stdlib.h>
+
+1490558974 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\interpolator.cpp
+	"Interpolator.h"
+	<typeinfo>
+	<string>
+	<stdio.h>
+
+1490559152 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"PoseAttr.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+
+1490551921 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\linearinterpolator.h
+	"Interpolator.h"
+
+1490559894 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\poseattr.cpp
+	"PoseAttr.h"
+	"Entity.h"
+
+1490559797 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\actor.cpp
+	"Actor.h"
+	<stdlib.h>
+
+1490535413 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\actor.h
+	"Object.h"
+	"Animator.h"
+
+1490530644 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\robot.h
+	"Actor.h"
+
+1490533464 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\robot.cpp
+	"Robot.h"
+
+1490559797 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\actor.cpp
+	"Actor.h"
+	<stdlib.h>
+
+1490535413 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\actor.h
+	"Object.h"
+	"Animator.h"
+
+1490133863 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1490546186 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\entity.h
+	"Vector3.h"
+
+1489529022 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\vector3.h
+
+1489541858 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1490551995 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\animator.h
+	"Entity.h"
+	"Interpolator.h"
+	<vector>
+
+1490557953 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\interpolator.h
+	"Entity.h"
+	"PoseAttr.h"
+	<vector>
+
+1490554039 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\poseattr.h
+	"Vector3.h"
+
+1490559795 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\animator.cpp
+	"Animator.h"
+	<stdlib.h>
+
+1489532282 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489541932 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\camera.h
+	"Entity.h"
+
+1489531844 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1490546745 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\entity.cpp
+	"Entity.h"
+	<stdlib.h>
+
+1490135316 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\fence.cpp
+	"Fence.h"
+
+1490131796 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\fence.h
+	"Object.h"
+
+1490135654 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\house.cpp
+	"House.h"
+
+1490135518 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\house.h
+	"Object.h"
+
+1490558974 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\interpolator.cpp
+	"Interpolator.h"
+	<typeinfo>
+	<string>
+	<stdio.h>
+
+1490559152 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"PoseAttr.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+
+1490551921 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\linearinterpolator.h
+	"Interpolator.h"
+
+1490546686 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+	"Fence.h"
+	"Tree.h"
+	"House.h"
+	"Robot.h"
+	"PoseAttr.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1490135518 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\tree.h
+	"Object.h"
+
+1490530644 e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\robot.h
+	"Actor.h"
+
+1490546347 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\object.cpp
+	"Object.h"
+
+1490559894 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\poseattr.cpp
+	"PoseAttr.h"
+	"Entity.h"
+
+1490134058 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490533464 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\robot.cpp
+	"Robot.h"
+
+1490134644 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\tree.cpp
+	"Tree.h"
+
+1379211195 source:e:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1489532282 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1490546186 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\entity.h
+	"Vector3.h"
+
+1489529022 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\vector3.h
+
+1489541932 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\camera.h
+	"Entity.h"
+
+1489531844 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1490546745 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\entity.cpp
+	"Entity.h"
+	<stdlib.h>
+
+1490135316 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\fence.cpp
+	"Fence.h"
+
+1490131796 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\fence.h
+	"Object.h"
+
+1490133863 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1489541858 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1490135654 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\house.cpp
+	"House.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\house.h
+	"Object.h"
+
+1490546347 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\object.cpp
+	"Object.h"
+
+1490134058 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490533464 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\robot.cpp
+	"Robot.h"
+
+1490530644 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\robot.h
+	"Actor.h"
+
+1490535413 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\actor.h
+	"Object.h"
+	"Animator.h"
+
+1491091657 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\animator.h
+	"Entity.h"
+	"Interpolator.h"
+	<vector>
+
+1491092093 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\interpolator.h
+	"Entity.h"
+	"PoseAttr.h"
+	<vector>
+
+1491086459 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\poseattr.h
+	"Vector3.h"
+
+1490134644 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\tree.cpp
+	"Tree.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\tree.h
+	"Object.h"
+
+1379211195 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1490559797 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\actor.cpp
+	"Actor.h"
+	<stdlib.h>
+
+1491092408 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\animator.cpp
+	"Animator.h"
+	<stdlib.h>
+
+1491085198 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\attrvector3.cpp
+	"AttrVector3.h"
+	"Entity.h"
+
+1491083985 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\attrvector3.h
+	"PoseAttr.h"
+	"Vector3.h"
+
+1491091921 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\interpolator.cpp
+	"Interpolator.h"
+	<typeinfo>
+	<string>
+	<stdio.h>
+
+1491090329 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"PoseAttr.h"
+	"AttrVector3.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+
+1490551921 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\linearinterpolator.h
+	"Interpolator.h"
+
+1491092700 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+	"Fence.h"
+	"Tree.h"
+	"House.h"
+	"Robot.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491085198 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017c\poseattr.cpp
+	"PoseAttr.h"
+	"Entity.h"
+
+1490559797 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\actor.cpp
+	"Actor.h"
+	<stdlib.h>
+
+1490535413 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\actor.h
+	"Object.h"
+	"Animator.h"
+
+1490133863 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1490546186 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\entity.h
+	"Vector3.h"
+
+1489529022 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\vector3.h
+
+1489541858 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1491091657 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\animator.h
+	"Entity.h"
+	"Interpolator.h"
+	<vector>
+
+1491092093 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\interpolator.h
+	"Entity.h"
+	"PoseAttr.h"
+	<vector>
+
+1491086459 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\poseattr.h
+	"Vector3.h"
+
+1491092408 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\animator.cpp
+	"Animator.h"
+	<stdlib.h>
+
+1489532282 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489541932 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\camera.h
+	"Entity.h"
+
+1491099144 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\attrvector3.cpp
+	"AttrVector3.h"
+	"Entity.h"
+
+1491083985 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\attrvector3.h
+	"PoseAttr.h"
+	"Vector3.h"
+
+1489531844 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1490546745 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\entity.cpp
+	"Entity.h"
+	<stdlib.h>
+
+1490135316 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\fence.cpp
+	"Fence.h"
+
+1490131796 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\fence.h
+	"Object.h"
+
+1490135654 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\house.cpp
+	"House.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\house.h
+	"Object.h"
+
+1491091921 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\interpolator.cpp
+	"Interpolator.h"
+	<typeinfo>
+	<string>
+	<stdio.h>
+
+1491090329 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"PoseAttr.h"
+	"AttrVector3.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+
+1490551921 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\linearinterpolator.h
+	"Interpolator.h"
+
+1490546347 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\object.cpp
+	"Object.h"
+
+1491085198 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\poseattr.cpp
+	"PoseAttr.h"
+	"Entity.h"
+
+1490134058 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490533464 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\robot.cpp
+	"Robot.h"
+
+1490530644 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\robot.h
+	"Actor.h"
+
+1490134644 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\tree.cpp
+	"Tree.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\tree.h
+	"Object.h"
+
+1379211195 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1491098153 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\helix.cpp
+	"Helix.h"
+
+1491097506 g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\helix.h
+	"Actor.h"
+
+1491098935 source:g:\udesc\ensino\oac\oac com opengl\aula 5 - keyframing\oac2017d\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"PrimitiveGL.h"
+	"Fence.h"
+	"Tree.h"
+	"House.h"
+	"Robot.h"
+	"Helix.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491190694 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\actor.cpp
+	"Actor.h"
+	<stdlib.h>
+	<stdio.h>
+
+1490535413 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\actor.h
+	"Object.h"
+	"Animator.h"
+
+1491192144 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1491187182 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\entity.h
+	"Vector3.h"
+
+1489529022 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\vector3.h
+
+1491192144 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1491091657 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\animator.h
+	"Entity.h"
+	"Interpolator.h"
+	<vector>
+
+1491092093 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\interpolator.h
+	"Entity.h"
+	"PoseAttr.h"
+	<vector>
+
+1491187259 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\poseattr.h
+	"Vector3.h"
+
+1491190767 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\animator.cpp
+	"Animator.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491177873 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489541932 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\camera.h
+	"Entity.h"
+
+1491192266 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\attrvector3.cpp
+	"AttrVector3.h"
+	"Entity.h"
+	<stdio.h>
+
+1491083985 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\attrvector3.h
+	"PoseAttr.h"
+	"Vector3.h"
+
+1489531844 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1491187184 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\entity.cpp
+	"Entity.h"
+	<stdlib.h>
+
+1490135316 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\fence.cpp
+	"Fence.h"
+
+1490131796 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\fence.h
+	"Object.h"
+
+1491098153 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\helix.cpp
+	"Helix.h"
+
+1491097506 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\helix.h
+	"Actor.h"
+
+1490135654 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\house.cpp
+	"House.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\house.h
+	"Object.h"
+
+1491091921 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\interpolator.cpp
+	"Interpolator.h"
+	<typeinfo>
+	<string>
+	<stdio.h>
+
+1491192267 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"PoseAttr.h"
+	"AttrVector3.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+
+1490551921 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\linearinterpolator.h
+	"Interpolator.h"
+
+1491192144 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"Planet.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\tree.h
+	"Object.h"
+
+1490530644 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\robot.h
+	"Actor.h"
+
+1491192144 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\object.cpp
+	"Object.h"
+
+1491085198 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\poseattr.cpp
+	"PoseAttr.h"
+	"Entity.h"
+
+1491191997 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490533464 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\robot.cpp
+	"Robot.h"
+
+1490134644 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\tree.cpp
+	"Tree.h"
+
+1379211195 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1491192669 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\joint.cpp
+	"Joint.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491184222 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\joint.h
+	"Object.h"
+	"Actor.h"
+
+1491188919 g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\planet.h
+	"Joint.h"
+
+1491191182 source:g:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\planet.cpp
+	"Planet.h"
+	"PrimitiveGL.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491190694 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\actor.cpp
+	"Actor.h"
+	<stdlib.h>
+	<stdio.h>
+
+1490535413 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\actor.h
+	"Object.h"
+	"Animator.h"
+
+1491192144 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1491187182 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\entity.h
+	"Vector3.h"
+
+1489529022 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\vector3.h
+
+1491192144 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1491091657 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\animator.h
+	"Entity.h"
+	"Interpolator.h"
+	<vector>
+
+1491092093 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\interpolator.h
+	"Entity.h"
+	"PoseAttr.h"
+	<vector>
+
+1491187259 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\poseattr.h
+	"Vector3.h"
+
+1491190767 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\animator.cpp
+	"Animator.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491177873 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489541932 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\camera.h
+	"Entity.h"
+
+1491192266 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\attrvector3.cpp
+	"AttrVector3.h"
+	"Entity.h"
+	<stdio.h>
+
+1491083985 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\attrvector3.h
+	"PoseAttr.h"
+	"Vector3.h"
+
+1489531844 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1491187184 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\entity.cpp
+	"Entity.h"
+	<stdlib.h>
+
+1490135316 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\fence.cpp
+	"Fence.h"
+
+1490131796 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\fence.h
+	"Object.h"
+
+1491098153 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\helix.cpp
+	"Helix.h"
+
+1491097506 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\helix.h
+	"Actor.h"
+
+1490135654 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\house.cpp
+	"House.h"
+
+1490135518 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\house.h
+	"Object.h"
+
+1491091921 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\interpolator.cpp
+	"Interpolator.h"
+	<typeinfo>
+	<string>
+	<stdio.h>
+
+1491192669 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\joint.cpp
+	"Joint.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491184222 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\joint.h
+	"Object.h"
+	"Actor.h"
+
+1491192267 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"PoseAttr.h"
+	"AttrVector3.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+
+1490551921 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\linearinterpolator.h
+	"Interpolator.h"
+
+1491193628 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"Planet.h"
+
+1491188919 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\planet.h
+	"Joint.h"
+
+1491192144 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\object.cpp
+	"Object.h"
+
+1491191182 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\planet.cpp
+	"Planet.h"
+	"PrimitiveGL.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491085198 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\poseattr.cpp
+	"PoseAttr.h"
+	"Entity.h"
+
+1491191997 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490533464 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\robot.cpp
+	"Robot.h"
+
+1490530644 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\robot.h
+	"Actor.h"
+
+1490134644 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\tree.cpp
+	"Tree.h"
+
+1490135518 f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\tree.h
+	"Object.h"
+
+1379211195 source:f:\udesc\ensino\oac\oac com opengl\aula 6 - modelos hierárquicos 1 - parenting\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1491190694 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\actor.cpp
+	"Actor.h"
+	<stdlib.h>
+	<stdio.h>
+
+1490535413 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\actor.h
+	"Object.h"
+	"Animator.h"
+
+1491192144 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\object.h
+	"Entity.h"
+	"PrimitiveGL.h"
+	<vector>
+
+1491187182 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\entity.h
+	"Vector3.h"
+
+1489529022 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\vector3.h
+
+1491192144 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\primitivegl.h
+	"Entity.h"
+	<GL/gl.h>
+
+1491091657 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\animator.h
+	"Entity.h"
+	"Interpolator.h"
+	<vector>
+
+1491092093 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\interpolator.h
+	"Entity.h"
+	"PoseAttr.h"
+	<vector>
+
+1491187259 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\poseattr.h
+	"Vector3.h"
+
+1491190767 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\animator.cpp
+	"Animator.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491177873 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+
+1489530266 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1489541932 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\camera.h
+	"Entity.h"
+
+1491192266 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\attrvector3.cpp
+	"AttrVector3.h"
+	"Entity.h"
+	<stdio.h>
+
+1491083985 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\attrvector3.h
+	"PoseAttr.h"
+	"Vector3.h"
+
+1489531844 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\camera.cpp
+	"Camera.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1491187184 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\entity.cpp
+	"Entity.h"
+	<stdlib.h>
+
+1490135316 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\fence.cpp
+	"Fence.h"
+
+1490131796 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\fence.h
+	"Object.h"
+
+1491098153 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\helix.cpp
+	"Helix.h"
+
+1491097506 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\helix.h
+	"Actor.h"
+
+1490135654 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\house.cpp
+	"House.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\house.h
+	"Object.h"
+
+1491091921 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\interpolator.cpp
+	"Interpolator.h"
+	<typeinfo>
+	<string>
+	<stdio.h>
+
+1491699877 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\joint.cpp
+	"Joint.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491184222 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\joint.h
+	"Object.h"
+	"Actor.h"
+
+1491192267 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"PoseAttr.h"
+	"AttrVector3.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+
+1490551921 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\linearinterpolator.h
+	"Interpolator.h"
+
+1491192144 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\object.cpp
+	"Object.h"
+
+1491191182 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\planet.cpp
+	"Planet.h"
+	"PrimitiveGL.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491188919 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\planet.h
+	"Joint.h"
+
+1491085198 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\poseattr.cpp
+	"PoseAttr.h"
+	"Entity.h"
+
+1491697883 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\primitivegl.cpp
+	"PrimitiveGL.h"
+	<GL/glut.h>
+
+1490533464 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\robot.cpp
+	"Robot.h"
+
+1490530644 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\robot.h
+	"Actor.h"
+
+1490134644 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\tree.cpp
+	"Tree.h"
+
+1490135518 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\tree.h
+	"Object.h"
+
+1379211195 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1491668361 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\ballchain.cpp
+	"BallChain.h"
+	"PrimitiveGL.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491678692 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\ballchain.h
+	"Joint.h"
+
+1491089663 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\blockinginterpolator.cpp
+	"BlockingInterpolator.h"
+	"PoseAttr.h"
+	"AttrVector3.h"
+	<stdio.h>
+	<typeinfo>
+	<string>
+	<math.h>
+
+1491087214 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\blockinginterpolator.h
+	"Interpolator.h"
+
+1491700068 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+	"Camera.h"
+	"BallChain.h"
+	"ChainLink.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491750270 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\chainlink.cpp
+	"ChainLink.h"
+	"PrimitiveGL.h"
+	"AttrVector3.h"
+	"LinearInterpolator.h"
+	"Animator.h"
+
+1491678692 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017\chainlink.h
+	"Joint.h"
+
+1492310072 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+	"Camera.h"
+	"Vector3.h"
+	"LightSource.h"
+	"Character.h"
+	"VectorAttribute.h"
+	"BRep.h"
+
+1492286509 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1492282820 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\entity.h
+	"Vector3.h"
+	"Keyframing.h"
+
+1380640452 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vector3.h
+
+1492284767 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\keyframing.h
+	"Interpolator.h"
+	"Pose.h"
+	"Vector3.h"
+	<vector>
+
+1380640408 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\interpolator.h
+	"PoseAttribute.h"
+
+1380640447 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\poseattribute.h
+	"Vector3.h"
+	<string>
+
+1492298687 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pose.h
+	"PoseAttribute.h"
+	"Vector3.h"
+	<vector>
+
+1492293355 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\camera.h
+	"Entity.h"
+
+1492285113 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\lightsource.h
+	"ColoredEntity.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+
+1492283635 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\coloredentity.h
+	"Entity.h"
+
+1492287318 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\character.h
+	"PivotedBRep.h"
+	"CharacterAction.h"
+	<string>
+	<vector>
+
+1492285534 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivotedbrep.h
+	"Pivot.h"
+	<string>
+
+1492283785 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivot.h
+	"Entity.h"
+
+1492284469 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\characteraction.h
+	"Keyframing.h"
+	<string>
+	<vector>
+
+1380640455 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vectorattribute.h
+	"PoseAttribute.h"
+
+1492287466 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brep.cpp
+	"BRep.h"
+	"BRepGroup.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+	<stdio.h>
+
+1492284210 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brep.h
+	"TexturedEntity.h"
+	"BRepGroup.h"
+	"BRepMaterial.h"
+	<vector>
+	<string>
+
+1492283730 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\texturedentity.h
+	<windows.h>
+	"ColoredEntity.h"
+	<string>
+
+1380640360 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepgroup.h
+	"Vector3.h"
+	<vector>
+	<string>
+	"BRepFace.h"
+	"BRepMaterial.h"
+
+1380640355 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepface.h
+	<vector>
+	<string>
+
+1380640362 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepmaterial.h
+	"Vector3.h"
+	<vector>
+	<string>
+
+1380640352 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepface.cpp
+	"BRepFace.h"
+
+1380640356 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepgroup.cpp
+	"BRepGroup.h"
+	<gl/glut.h>
+
+1380640362 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepmaterial.cpp
+	"BRepMaterial.h"
+
+1492293355 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\camera.cpp
+	"Camera.h"
+	<gl/gl.h>
+	<gl/glu.h>
+	<math.h>
+
+1492291490 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\character.cpp
+	"Character.h"
+	"PivotedBRep.h"
+	"BRep.h"
+
+1380640381 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\characteraction.cpp
+	"CharacterAction.h"
+
+1492283635 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\coloredentity.cpp
+	"ColoredEntity.h"
+	"VectorAttribute.h"
+
+1492310973 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\entity.cpp
+	"Entity.h"
+	"VectorAttribute.h"
+	<stdio.h>
+
+1380640401 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\floatattribute.cpp
+	"FloatAttribute.h"
+
+1380640401 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\floatattribute.h
+	"PoseAttribute.h"
+
+1380640402 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\intattribute.cpp
+	"IntAttribute.h"
+
+1380640403 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\intattribute.h
+	"PoseAttribute.h"
+
+1492311660 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\keyframing.cpp
+	"Keyframing.h"
+	"LinearInterpolator.h"
+	"PoseAttribute.h"
+	"VectorAttribute.h"
+	<stdio.h>
+
+1492311263 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\linearinterpolator.h
+	"Interpolator.h"
+
+1492285209 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\lightsource.cpp
+	"LightSource.h"
+	"VectorAttribute.h"
+	"FloatAttribute.h"
+
+1380640419 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"VectorAttribute.h"
+	"IntAttribute.h"
+	"FloatAttribute.h"
+
+1492286004 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+
+1492283785 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivot.cpp
+	"Pivot.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+
+1492285535 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivotedbrep.cpp
+	"PivotedBRep.h"
+	"BRep.h"
+
+1492285584 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\planet.cpp
+	"Planet.h"
+	"VectorAttribute.h"
+
+1492285583 g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\planet.h
+	"PivotedBRep.h"
+
+1492298829 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pose.cpp
+	"Pose.h"
+
+1380640446 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\poseattribute.cpp
+	"PoseAttribute.h"
+
+1492286032 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\texturedentity.cpp
+	"TexturedEntity.h"
+	<gl/glut.h>
+	<stdio.h>
+
+1380640450 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1380640453 source:g:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vectorattribute.cpp
+	"VectorAttribute.h"
+
+1492287466 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brep.cpp
+	"BRep.h"
+	"BRepGroup.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+	<stdio.h>
+
+1492284210 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brep.h
+	"TexturedEntity.h"
+	"BRepGroup.h"
+	"BRepMaterial.h"
+	<vector>
+	<string>
+
+1492283730 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\texturedentity.h
+	<windows.h>
+	"ColoredEntity.h"
+	<string>
+
+1492283635 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\coloredentity.h
+	"Entity.h"
+
+1492282820 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\entity.h
+	"Vector3.h"
+	"Keyframing.h"
+
+1380640452 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vector3.h
+
+1492284767 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\keyframing.h
+	"Interpolator.h"
+	"Pose.h"
+	"Vector3.h"
+	<vector>
+
+1380640408 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\interpolator.h
+	"PoseAttribute.h"
+
+1380640447 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\poseattribute.h
+	"Vector3.h"
+	<string>
+
+1492298687 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pose.h
+	"PoseAttribute.h"
+	"Vector3.h"
+	<vector>
+
+1380640360 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepgroup.h
+	"Vector3.h"
+	<vector>
+	<string>
+	"BRepFace.h"
+	"BRepMaterial.h"
+
+1380640355 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepface.h
+	<vector>
+	<string>
+
+1380640362 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepmaterial.h
+	"Vector3.h"
+	<vector>
+	<string>
+
+1380640352 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepface.cpp
+	"BRepFace.h"
+
+1380640356 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepgroup.cpp
+	"BRepGroup.h"
+	<gl/glut.h>
+
+1380640362 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\brepmaterial.cpp
+	"BRepMaterial.h"
+
+1492293355 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\camera.cpp
+	"Camera.h"
+	<gl/gl.h>
+	<gl/glu.h>
+	<math.h>
+
+1492293355 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\camera.h
+	"Entity.h"
+
+1492291490 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\character.cpp
+	"Character.h"
+	"PivotedBRep.h"
+	"BRep.h"
+
+1492287318 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\character.h
+	"PivotedBRep.h"
+	"CharacterAction.h"
+	<string>
+	<vector>
+
+1492285534 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivotedbrep.h
+	"Pivot.h"
+	<string>
+
+1492283785 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivot.h
+	"Entity.h"
+
+1492284469 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\characteraction.h
+	"Keyframing.h"
+	<string>
+	<vector>
+
+1380640381 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\characteraction.cpp
+	"CharacterAction.h"
+
+1492283635 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\coloredentity.cpp
+	"ColoredEntity.h"
+	"VectorAttribute.h"
+
+1380640455 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vectorattribute.h
+	"PoseAttribute.h"
+
+1492310973 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\entity.cpp
+	"Entity.h"
+	"VectorAttribute.h"
+	<stdio.h>
+
+1380640401 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\floatattribute.cpp
+	"FloatAttribute.h"
+
+1380640401 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\floatattribute.h
+	"PoseAttribute.h"
+
+1380640402 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\intattribute.cpp
+	"IntAttribute.h"
+
+1380640403 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\intattribute.h
+	"PoseAttribute.h"
+
+1492311660 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\keyframing.cpp
+	"Keyframing.h"
+	"LinearInterpolator.h"
+	"PoseAttribute.h"
+	"VectorAttribute.h"
+	<stdio.h>
+
+1492311263 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\linearinterpolator.h
+	"Interpolator.h"
+
+1492285209 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\lightsource.cpp
+	"LightSource.h"
+	"VectorAttribute.h"
+	"FloatAttribute.h"
+
+1492285113 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\lightsource.h
+	"ColoredEntity.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+
+1380640419 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"VectorAttribute.h"
+	"IntAttribute.h"
+	"FloatAttribute.h"
+
+1492286004 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+
+1492286509 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1492283785 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivot.cpp
+	"Pivot.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+
+1492285535 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pivotedbrep.cpp
+	"PivotedBRep.h"
+	"BRep.h"
+
+1492285584 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\planet.cpp
+	"Planet.h"
+	"VectorAttribute.h"
+
+1492285583 e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\planet.h
+	"PivotedBRep.h"
+
+1492298829 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\pose.cpp
+	"Pose.h"
+
+1380640446 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\poseattribute.cpp
+	"PoseAttribute.h"
+
+1492286032 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\texturedentity.cpp
+	"TexturedEntity.h"
+	<gl/glut.h>
+	<stdio.h>
+
+1380640450 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1380640453 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\vectorattribute.cpp
+	"VectorAttribute.h"
+
+1492441763 source:e:\udesc\ensino\oac\oac com opengl\aula 7 - modelos hierárquicos 2 - dka\oac2017b\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+	"Camera.h"
+	"Vector3.h"
+	"LightSource.h"
+	"Character.h"
+	"VectorAttribute.h"
+	"BRep.h"
+
+1380640352 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brepface.cpp
+	"BRepFace.h"
+
+1380640355 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brepface.h
+	<vector>
+	<string>
+
+1380640356 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brepgroup.cpp
+	"BRepGroup.h"
+	<gl/glut.h>
+
+1380640360 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brepgroup.h
+	"Vector3.h"
+	<vector>
+	<string>
+	"BRepFace.h"
+	"BRepMaterial.h"
+
+1380640452 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\vector3.h
+
+1380640362 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brepmaterial.h
+	"Vector3.h"
+	<vector>
+	<string>
+
+1380640362 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brepmaterial.cpp
+	"BRepMaterial.h"
+
+1380640381 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\characteraction.cpp
+	"CharacterAction.h"
+
+1492284469 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\characteraction.h
+	"Keyframing.h"
+	<string>
+	<vector>
+
+1492284767 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\keyframing.h
+	"Interpolator.h"
+	"Pose.h"
+	"Vector3.h"
+	<vector>
+
+1380640408 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\interpolator.h
+	"PoseAttribute.h"
+
+1380640447 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\poseattribute.h
+	"Vector3.h"
+	<string>
+
+1492298687 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\pose.h
+	"PoseAttribute.h"
+	"Vector3.h"
+	<vector>
+
+1380640401 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\floatattribute.cpp
+	"FloatAttribute.h"
+
+1380640401 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\floatattribute.h
+	"PoseAttribute.h"
+
+1380640402 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\intattribute.cpp
+	"IntAttribute.h"
+
+1380640403 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\intattribute.h
+	"PoseAttribute.h"
+
+1492285209 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\lightsource.cpp
+	"LightSource.h"
+	"VectorAttribute.h"
+	"FloatAttribute.h"
+
+1492285113 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\lightsource.h
+	"ColoredEntity.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+
+1492283635 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\coloredentity.h
+	"Entity.h"
+
+1492577027 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\entity.h
+	"Vector3.h"
+	"Keyframing.h"
+
+1492578316 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\rigidbody.h
+	"Force.h"
+	<vector>
+
+1380640455 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\vectorattribute.h
+	"PoseAttribute.h"
+
+1380640419 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\linearinterpolator.cpp
+	"LinearInterpolator.h"
+	"VectorAttribute.h"
+	"IntAttribute.h"
+	"FloatAttribute.h"
+
+1492311263 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\linearinterpolator.h
+	"Interpolator.h"
+
+1492286004 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\main_cpp.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	"application.h"
+
+1492286509 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\application.h
+	"Entity.h"
+	"Camera.h"
+	<vector>
+	<string>
+
+1492293355 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\camera.h
+	"Entity.h"
+
+1492283785 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\pivot.cpp
+	"Pivot.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+
+1492283785 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\pivot.h
+	"Entity.h"
+
+1492285535 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\pivotedbrep.cpp
+	"PivotedBRep.h"
+	"BRep.h"
+
+1492285534 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\pivotedbrep.h
+	"Pivot.h"
+	<string>
+
+1492284210 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brep.h
+	"TexturedEntity.h"
+	"BRepGroup.h"
+	"BRepMaterial.h"
+	<vector>
+	<string>
+
+1492283730 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\texturedentity.h
+	<windows.h>
+	"ColoredEntity.h"
+	<string>
+
+1492285584 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\planet.cpp
+	"Planet.h"
+	"VectorAttribute.h"
+
+1492285583 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\planet.h
+	"PivotedBRep.h"
+
+1380640446 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\poseattribute.cpp
+	"PoseAttribute.h"
+
+1492286032 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\texturedentity.cpp
+	"TexturedEntity.h"
+	<gl/glut.h>
+	<stdio.h>
+
+1380640450 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\vector3.cpp
+	"Vector3.h"
+	<math.h>
+
+1380640453 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\vectorattribute.cpp
+	"VectorAttribute.h"
+
+1492576894 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\force.h
+	<string>
+	"Vector3.h"
+
+1492578315 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\application.cpp
+	"Application.h"
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<typeinfo>
+	"Camera.h"
+	"Vector3.h"
+	"LightSource.h"
+	"BRep.h"
+	"RigidBody.h"
+
+1492287466 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\brep.cpp
+	"BRep.h"
+	"BRepGroup.h"
+	<Windows.h>
+	<gl/GL.h>
+	<gl/GLU.h>
+	<stdio.h>
+
+1492293355 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\camera.cpp
+	"Camera.h"
+	<gl/gl.h>
+	<gl/glu.h>
+	<math.h>
+
+1492291490 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\character.cpp
+	"Character.h"
+	"PivotedBRep.h"
+	"BRep.h"
+
+1492287318 g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\character.h
+	"PivotedBRep.h"
+	"CharacterAction.h"
+	<string>
+	<vector>
+
+1492443286 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\coloredentity.cpp
+	"ColoredEntity.h"
+	"VectorAttribute.h"
+
+1492577686 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\entity.cpp
+	"Entity.h"
+	"VectorAttribute.h"
+	"RigidBody.h"
+	<stdio.h>
+
+1492574248 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\force.cpp
+	"Force.h"
+
+1492311660 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\keyframing.cpp
+	"Keyframing.h"
+	"LinearInterpolator.h"
+	"PoseAttribute.h"
+	"VectorAttribute.h"
+	<stdio.h>
+
+1492298829 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\pose.cpp
+	"Pose.h"
+
+1492578507 source:g:\udesc\ensino\oac\oac com opengl\aula 8 - physics 1 - forces\oac2017\rigidbody.cpp
+	"RigidBody.h"
+	"Entity.h"
+	<stdio.h>
+

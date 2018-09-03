@@ -1,0 +1,29 @@
+all:
+	 g++ \
+	 BRepMaterial.cpp \
+	 IntAttribute.cpp \
+	 PoseAttribute.cpp \
+	 VectorAttribute.cpp \
+	 LightSource.cpp \
+	 Force.cpp \
+	 Pose.cpp \
+	 Character.cpp \
+	 Keyframing.cpp \
+	 Vector3.cpp \
+	 TexturedEntity.cpp \
+	 Camera.cpp \
+	 Entity.cpp \
+	 FloatAttribute.cpp \
+	 Application.cpp \
+	 BRep.cpp \
+	 RigidBody.cpp \
+	 Planet.cpp \
+	 LinearInterpolator.cpp \
+	 Pivot.cpp \
+	 BRepGroup.cpp \
+	 main_CPP.cpp \
+	 ColoredEntity.cpp \
+	 BRepFace.cpp \
+	 PivotedBRep.cpp \
+	 CharacterAction.cpp \
+-o AniV7.o -lGL -lGLU -lglut -O3

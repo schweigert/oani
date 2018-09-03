@@ -1,0 +1,46 @@
+/**
+   \file Object.h
+   \brief Descricao da classe para objetos graficos compostos de v�rias primitivas
+
+   Desenvolvido por Rogerio Eduardo da Silva<br>
+   Mar�o, 2017. Universidade do Estado de Santa Catarina - UDESC<br>
+*/
+#ifndef _OBJECT_NOT_INCLUDED_
+#define _OBJECT_NOT_INCLUDED_
+
+#include "Entity.h"
+#include "PrimitiveGL.h"
+#include <vector>
+using namespace std;
+
+/**
+   \class Object
+   \brief Responsavel por manipular objetos compostos de multiplas primitivas<br>
+
+   \sa Entity()
+*/
+class Object: public Entity
+{
+protected:
+	vector<Entity*> listOfEntities;  ///< lista de ponteiros para entidades que compoem este objeto
+	bool compiled;
+	GLuint mesh;
+
+public:
+    Object();
+    Object( const Object & );
+    Object( Object* );
+    ~Object();
+
+    void setColor( Vector3 );
+
+    /**
+        \brief Rotina responsavel pela constru��o do objeto
+    */
+    virtual void Initialize() = 0;
+
+    virtual void OnRender();
+    virtual void OnLoop( double );
+};
+
+#endif

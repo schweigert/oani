@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="OAC2017" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/OAC2017" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files (x86)/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/OAC2017" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files (x86)/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="Application.cpp" />
+		<Unit filename="Application.h" />
+		<Unit filename="BRep.cpp" />
+		<Unit filename="BRep.h" />
+		<Unit filename="BRepFace.cpp" />
+		<Unit filename="BRepFace.h" />
+		<Unit filename="BRepGroup.cpp" />
+		<Unit filename="BRepGroup.h" />
+		<Unit filename="BRepMaterial.cpp" />
+		<Unit filename="BRepMaterial.h" />
+		<Unit filename="Camera.cpp" />
+		<Unit filename="Camera.h" />
+		<Unit filename="Character.cpp" />
+		<Unit filename="Character.h" />
+		<Unit filename="CharacterAction.cpp" />
+		<Unit filename="CharacterAction.h" />
+		<Unit filename="ColoredEntity.cpp" />
+		<Unit filename="ColoredEntity.h" />
+		<Unit filename="Entity.cpp" />
+		<Unit filename="Entity.h" />
+		<Unit filename="FloatAttribute.cpp" />
+		<Unit filename="FloatAttribute.h" />
+		<Unit filename="IntAttribute.cpp" />
+		<Unit filename="IntAttribute.h" />
+		<Unit filename="Interpolator.h" />
+		<Unit filename="Keyframing.cpp" />
+		<Unit filename="Keyframing.h" />
+		<Unit filename="LightSource.cpp" />
+		<Unit filename="LightSource.h" />
+		<Unit filename="LinearInterpolator.cpp" />
+		<Unit filename="LinearInterpolator.h" />
+		<Unit filename="Pivot.cpp" />
+		<Unit filename="Pivot.h" />
+		<Unit filename="PivotedBRep.cpp" />
+		<Unit filename="PivotedBRep.h" />
+		<Unit filename="Planet.cpp" />
+		<Unit filename="Planet.h" />
+		<Unit filename="Pose.cpp" />
+		<Unit filename="Pose.h" />
+		<Unit filename="PoseAttribute.cpp" />
+		<Unit filename="PoseAttribute.h" />
+		<Unit filename="TexturedEntity.cpp" />
+		<Unit filename="TexturedEntity.h" />
+		<Unit filename="Vector3.cpp" />
+		<Unit filename="Vector3.h" />
+		<Unit filename="VectorAttribute.cpp" />
+		<Unit filename="VectorAttribute.h" />
+		<Unit filename="main_CPP.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
